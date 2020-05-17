@@ -23,21 +23,9 @@ body{
      cursor:pointer
    }
 
-   #piedra{
-       background-image: url('/img/piedra.PNG');
-       background-size: cover;
-       background-repeat: none;
+   .fas  {
+       font-size: 10rem;
    }
-   #papel{
-      background-image: url('/img/papel.PNG');
-      background-size: cover;
-      background-repeat: none;
-   }
-   #tijera{
-    background-image: url('/img/tijera.PNG');
-    background-size: cover;
-    background-repeat: none;
- }
 
  .btn:hover{
      transition: all .5s;
